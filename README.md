@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/1058448704035627139/08346ecbcd76eaa0392af39b461bad81.png?size=1024"  />
+<img align="right" height="150" src="https://media.discordapp.net/attachments/1247261359444463716/1399163455994597470/kfgCC2Y.jpg?ex=68880003&is=6886ae83&hm=ee58a88933b5b1d342f9737aa4b2853b63eff3fd3c4e1b202e6a31cadeda488e&=&format=webp&width=552&height=553"  />
 
 ###
 
@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/31usjv7ajjsyqncwkp2gzd2bwaxm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31usjv7ajjsyqncwkp2gzd2bwaxm&count=5" alt="Spotify recently played"  />
   </a>
